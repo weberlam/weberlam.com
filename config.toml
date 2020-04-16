@@ -31,6 +31,6 @@ url = "/posts"
 name = "文章"
 weight = 1
 [[menu.main]]
-url = "/index.xml"
-name = "RSS Feed"
+url = "/posts/about"
+name = "關於"
 weight = 4

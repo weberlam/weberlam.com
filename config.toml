@@ -7,13 +7,10 @@ theme = "diary"
 
 [params]
 subtitle = "Dead Poet at Limbo"
-enableGitalk = true
+enableGitalk = false
 
-[params.gitalk]
-  owner = "user"
-  repo = "repo name"
-  client_id = "your client id"
-  client_secret = "your client secret"
+disqusShortname = "weberlam"
+
 [taxonomies]
    tag = "tags"
    category = "categories"

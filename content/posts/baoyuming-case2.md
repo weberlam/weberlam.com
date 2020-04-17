@@ -5,7 +5,6 @@ description: "人若没有思想自由，也便失去了身体自由。"
 tags: ["鲍毓明", "南风窗", "财新", "时事"]
 featured_image: ""
 categories: "时事"
-comment : true
 ---
 
 前两天写了一段关于鲍毓明案的文字（[《关于鲍毓明案》](https://www.weberlam.com/posts/baoyuming-case)）。这两天我重读熊培云的《自由在高处》，发现里面正好有对Natascha Kampusch绑架事件的评论（《自由在高处·辑二 自救与自由·人质为什么爱上绑匪？》）。我觉得可用来作为思考这一案件的一个参照，或许会有点启发。

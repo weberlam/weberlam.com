@@ -7,8 +7,6 @@ theme = "diary"
 
 [params]
 subtitle = "Dead Poet at Limbo"
-enableGitalk = false
-
 disqusShortname = "weberlam"
 
 [taxonomies]

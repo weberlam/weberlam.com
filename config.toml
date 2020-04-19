@@ -9,11 +9,11 @@ enableGitalk = true
 
 [params]
 subtitle = "Dead Poet at Limbo"
-disqusShortname = "weberlam"
+# disqusShortname = "weberlam"
 
 [params.gitalk]
   owner = "weberlam"
-  repo = "weberlam/weberlam.com"
+  repo = "weberlam.com"
   client_id = "5db10fd38341a889e601"
   client_secret = "34a5a222217df354bf57aafb207e2464bb9d153f"
 

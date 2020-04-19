@@ -4,18 +4,17 @@ title = "邊境的死詩人"
 copyright = "Dead Poet at Limbo"
 theme = "diary"
 # googleAnalytics = "UA-123-45"
-
-enableGitalk = true
+disqusShortname = "weberlam"
 
 [params]
 subtitle = "Dead Poet at Limbo"
-# disqusShortname = "weberlam"
+# enableGitalk = true
 
-[params.gitalk]
-  owner = "weberlam"
-  repo = "weberlam.com"
-  client_id = "5db10fd38341a889e601"
-  client_secret = "34a5a222217df354bf57aafb207e2464bb9d153f"
+# [params.gitalk]
+#   owner = "weberlam"
+#   repo = "weberlam.com"
+#   client_id = "5db10fd38341a889e601"
+#   client_secret = "34a5a222217df354bf57aafb207e2464bb9d153f"
 
 [taxonomies]
    tag = "tags"
